@@ -1,6 +1,6 @@
-<!-- HERO BANNER — uses readme-typing-svg as primary (always works), capsule-render as decorative wave -->
+<!-- HERO BANNER -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:70a5fd&height=200&section=header&text=Bathmaraj%20V&fontSize=50&fontColor=70a5fd&animation=fadeIn&fontAlignY=38&desc=Cloud%20%26%20Infrastructure%20Engineer%20%7C%20AWS%20%7C%20Azure%20%7C%20DevOps%20Automation&descAlignY=60&descSize=18&descColor=c9d1d9" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=Bathmaraj+V&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Cloud+Infrastructure+Engineer+%E2%80%A2+AWS+%E2%80%A2+Azure+%E2%80%A2+DevOps+Automation&descAlignY=60&descSize=17&descColor=ffffff" width="100%"/>
 </div>
 
 <div align="center">
