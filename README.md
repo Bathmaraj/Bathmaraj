@@ -1,4 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Bathmaraj+V&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cloud+%26+Infrastructure+Engineer+%7C+AWS+%7C+Azure+%7C+DevOps+Automation&descAlignY=62&descSize=16" width="100%"/>
+<!-- HERO BANNER — uses readme-typing-svg as primary (always works), capsule-render as decorative wave -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:70a5fd&height=200&section=header&text=Bathmaraj%20V&fontSize=50&fontColor=70a5fd&animation=fadeIn&fontAlignY=38&desc=Cloud%20%26%20Infrastructure%20Engineer%20%7C%20AWS%20%7C%20Azure%20%7C%20DevOps%20Automation&descAlignY=60&descSize=18&descColor=c9d1d9" width="100%"/>
+</div>
 
 <div align="center">
 
@@ -15,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" alt="Coding GIF" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ```bash
 #!/usr/bin/env bash
@@ -105,14 +108,16 @@ motto
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<a href="https://github.com/bathmaraj">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bathmaraj&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-</a>
-<a href="https://github.com/bathmaraj">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bathmaraj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-</a>
-
+  <table border="0" cellspacing="0" cellpadding="6">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Bathmaraj&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" height="175" alt="GitHub Stats"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bathmaraj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" height="175" alt="Top Languages"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -275,4 +280,6 @@ motto
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,50:1a1b27,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%"/>
+</div>
